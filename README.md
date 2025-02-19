@@ -20,7 +20,7 @@ A Bash script that displays system statistics in real-time with color and a smoo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SB1988-DEV/Server-Stats.git
+   git clone https://github.com/GingerDev0/Server-Stats.git
    cd Server-Stats
 
 2. **Make the script executable:**
