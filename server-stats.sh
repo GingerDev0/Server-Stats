@@ -147,8 +147,8 @@ while true; do
 
     # -------- Display Output --------
 
-    # Print ASCII Banner in blue
-    echo -e "${BLUE}"
+    # Print ASCII Banner in orange
+    echo -e "${ORANGE}"
     cat << 'EOF'
  ██████╗ ██╗███╗   ██╗ ██████╗ ███████╗██████╗ ██████╗ ███████╗██╗   ██╗
 ██╔════╝ ██║████╗  ██║██╔════╝ ██╔════╝██╔══██╗██╔══██╗██╔════╝██║   ██║
