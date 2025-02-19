@@ -19,16 +19,28 @@ A Bash script that displays system statistics in real-time with color and a smoo
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/GingerDev0/Server-Stats.git
-   cd Server-Stats
+```
+bash
+git clone https://github.com/GingerDev0/Server-Stats.git
+cd Server-Stats
+```
 
 2. **Make the script executable:**
 
-   ```bash
-   chmod +x server-stats.sh
+```
+bash
+chmod +x server-stats.sh
+```
 
 ## Usage
 
-   ```bash
-   ./server-stats.sh -s 5
+```
+bash
+./server-stats.sh -s 5
+```
+*This will output stats every 5 seconds.*
+
+```
+Ctrl+X
+```
+*This will close the script.*
