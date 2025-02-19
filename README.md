@@ -26,9 +26,9 @@ A Bash script that displays system statistics in real-time with color and a smoo
 2. **Make the script executable:**
 
    ```bash
-   chmod +x show-stats.sh
+   chmod +x server-stats.sh
 
 ## Usage
 
    ```bash
-   ./show-stats.sh -s 5
+   ./server-stats.sh -s 5
